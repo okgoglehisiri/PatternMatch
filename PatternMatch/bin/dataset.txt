@@ -1,0 +1,21 @@
+Hanako is a girl
+Hanako is a student
+student is a kind of human
+human is a kind of mammal
+Hanako has a hobby of playing video-games
+Hanako has a hobby of playing air-guitar
+Hanako studies philosophy
+Hanako loves Taro
+
+Taro is a boy
+Taro is a student
+Taro has a hobby of playing video-games
+Taro studies informatics
+Taro loves Jiro
+Taro has a pet named Jiro
+
+Jiro is a boy
+Jiro is a dog
+dog is a kind of mammal
+Jiro has a hobby of playing frisbee
+Jiro loves Hanako

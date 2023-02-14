@@ -1,0 +1,24 @@
+Oshima is an outfielder
+Oshima is a starting
+Oshima is a Dragons
+Oshima hits left
+Oshima throws left
+
+
+Neo is a pitcher
+Neo is a starting
+Neo is a Dragons
+Neo throws right
+Neo hits left
+
+Ogasawara is a pitcher
+Ogasawara is a bench
+Ogasawara is a Dragons
+Ogasawara hits left
+Ogasawara throws left
+
+Fujinami is a pitcher
+Fujinami is a starting
+Fujinami is a Tigers
+Fujinami hits right
+Fujinami throws right
